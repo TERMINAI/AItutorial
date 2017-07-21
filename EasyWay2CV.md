@@ -28,7 +28,8 @@
 
 
 
-- [deep learning综述](http://pages.cs.wisc.edu/~dyer/cs540/handouts/deep-learning-nature2015.pdf）
+- [deep learning综述](http://pages.cs.wisc.edu/~dyer/cs540/handouts/deep-learning-nature2015.pdf)
+
 Hinton,lecun,bengio三巨头写的经典综述
 
 
