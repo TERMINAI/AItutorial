@@ -17,6 +17,13 @@
 深度学习与计算机视觉
 ------
 
+- [cs131 计算机视觉的基础知识](http://vision.stanford.edu/teaching/cs131_fall1617/)
+
+主要讲传统的边缘检测，特征点描述，相机标定，全景图拼接等知识，作业里包含了很多知识点，全做下来学到的绝对不少
+
+- [CAP 5415 – Computer Vision (University of Central Florida)](http://crcv.ucf.edu/courses/CAP5415/Fall2012/)
+
+
 - [李飞飞教授的CS231n](http://cs231n.stanford.edu/)
 
 关于卷积神经网络在计算机视觉的应用，计算机视觉领域超级经典的必修课了。翻译的视频[这里](http://study.163.com/course/courseMain.htm?courseId=1003223001)
