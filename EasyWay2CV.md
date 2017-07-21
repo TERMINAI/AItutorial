@@ -52,6 +52,3 @@ Hinton,lecun,bengio三巨头写的经典综述
 
 
 
-- [Must Know Tips/Tricks in Deep Neural Networks](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
-
-卷积神经网络具体实现的一些小技巧,感谢南京大学魏秀参整理
