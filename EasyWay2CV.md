@@ -10,6 +10,7 @@
 机器学习
 -----
 - [吴恩达的cs229机器学习](http://open.163.com/special/opencourse/machinelearning.html?referered=http%3A%2F%2Fopen.163.com%2Fspecial%2Fopencourse%2Fmachinelearning.html)
+
 经典的机器学习基础课程
 
 深度学习与计算机视觉
