@@ -9,13 +9,14 @@
 
 机器学习
 -----
-- [《UFLDL-斯坦福大学吴恩达教授“Deep Learning”教程》](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
-
-介绍:本教程将阐述无监督特征学习和深度学习的主要观点。通过学习，你也将实现多个功能学习/深度学习算法，能看到它们为你工作，并学习如何应用/适应这些想法到新问题上。本教程假定机器学习的基本知识（特别是熟悉的监督学习，逻辑回归，梯度下降的想法），如果你不熟悉这些想法，我们建议你去这里[机器学习课程](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning)，并先完成第II，III，IV章（到逻辑回归）。此外这关于这套教程的源代码在github上面已经有python版本了 [UFLDL Tutorial Code](https://github.com/jatinshah/ufldl_tutorial)
-
+- [吴恩达的cs229机器学习](http://open.163.com/special/opencourse/machinelearning.html?referered=http%3A%2F%2Fopen.163.com%2Fspecial%2Fopencourse%2Fmachinelearning.html)
+经典的机器学习基础课程
 
 深度学习与计算机视觉
 ------
+- [《UFLDL-斯坦福大学吴恩达教授“Deep Learning”教程》](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
+
+介绍:本教程将阐述无监督特征学习和深度学习的主要观点。通过学习，你也将实现多个功能学习/深度学习算法，能看到它们为你工作，并学习如何应用/适应这些想法到新问题上。本教程假定机器学习的基本知识（特别是熟悉的监督学习，逻辑回归，梯度下降的想法），如果你不熟悉这些想法，我们建议你去这里[机器学习课程](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning)，并先完成第II，III，IV章（到逻辑回归）。此外这关于这套教程的源代码在github上面已经有python版本了 [UFLDL Tutorial Code](https://github.com/jatinshah/ufldl_tutorial)
 
 - [cs131 计算机视觉的基础知识](http://vision.stanford.edu/teaching/cs131_fall1617/)
 
